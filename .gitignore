@@ -9,3 +9,7 @@ venv/
 .venv/
 .DS_Store
 Thumbs.db
+"node_modules/" 
+".env" 
+"__pycache__/" 
+".idea/" 
